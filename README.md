@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karthik D</h1>
 <h3 align="center">A passionate computer science student at Siddaganga institute of technology</h3>
 
-<img src="https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png" alt="" height="200px" width="800px">
+<img src="https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png" alt="" height="350px" width="800px">
 
 
 - 🌱 I’m currently learning **DataScieence,Java-DSA,Flask,SpringBoot**
