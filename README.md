@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik D</h1>
-<h3 align="center">A passionate computer science student at Siddaganga institute of technology,Tumkur technology</h3>
+<h3 align="center">A passionate computer science student at Siddaganga institute of technology,Tumkur</h3>
 
 - 🔭 I’m currently working on **Deep Learning**
 
