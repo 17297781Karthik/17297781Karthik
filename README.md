@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Deep Learning**
 
-- 🌱 I’m currently learning **DataScieence,Java-DSA,Flask,SpringBoot,Python,ML**
+- 🌱 I’m currently learning **DataScience,Java-DSA,Flask,SpringBoot,Python,ML**
 
 - 📫 How to reach me **karthik.1si22cs078@gmail.com**
 
