@@ -13,27 +13,27 @@
 
 <div align="center">
   <a href="https://www.holopin.io/@d_karthik#badges">
-    <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="180" alt="Level 0" hspace="15"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="180" alt="Level 0" hspace="7"/>
   </a>
   <a href="https://www.holopin.io/@d_karthik#badges">
-    <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="180" alt="Level 1" hspace="15"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="180" alt="Level 1" hspace="7"/>
   </a>
   <a href="https://www.holopin.io/@d_karthik#badges">
-    <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="180" alt="Level 2" hspace="15"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="180" alt="Level 2" hspace="7"/>
   </a>
   <a href="https://www.holopin.io/@d_karthik#badges">
-    <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" width="180" alt="Level 3" hspace="15"/>
-  </a>
-  <br><br>
-  <a href="https://www.holopin.io/@d_karthik#badges">
-    <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" width="180" alt="Level 4" hspace="15"/>
-  </a>
-  <a href="https://www.holopin.io/@d_karthik#badges">
-    <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="180" alt="Level 5" hspace="15"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" width="180" alt="Level 3" hspace="7"/>
   </a>
   <br><br>
   <a href="https://www.holopin.io/@d_karthik#badges">
-    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="180" alt="Tree Nation Badge" hspace="15"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" width="180" alt="Level 4" hspace="7"/>
+  </a>
+  <a href="https://www.holopin.io/@d_karthik#badges">
+    <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="180" alt="Level 5" hspace="7"/>
+  </a>
+  <br><br>
+  <a href="https://www.holopin.io/@d_karthik#badges">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="180" alt="Tree Nation Badge" hspace="7"/>
   </a>
 </div>
 
