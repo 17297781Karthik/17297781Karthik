@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karthik D</h1>
-<h3 align="center">Tech Enthusiast | Passionate about Deep Learning, Web Development & Open Source</h3>
+<h1 align="center">Hi 👋, I'm Karthik </h1>
+<h3 align="center">Exploring Tech | Deep Diving into Machine Learning, Web Development & Open Source</h3>
 
 <div align="center">
   
@@ -31,9 +31,6 @@
   <a href="https://www.holopin.io/@d_karthik#badges">
     <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="180" alt="Level 5" hspace="7"/>
   </a>
-  <br><br>
-  <a href="https://www.holopin.io/@d_karthik#badges">
-    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="180" alt="Tree Nation Badge" hspace="7"/>
   </a>
 </div>
 
@@ -42,7 +39,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **Deep Learning** and contributing to open-source projects
-- 🌱 Exploring **Data Science, Java (DSA), Flask, Spring Boot, Python, and Machine Learning**
+- 🌱 Exploring **Data Science, Java, DSA, Flask, Spring Boot, Python, and Machine Learning**
 - 👨‍💻 Check out my projects: [My Portfolio](https://deploy-port-q55w994s4-17297781karthiks-projects.vercel.app/)
 - 📫 Reach me at: **karthik.1si22cs078@gmail.com**
 - 💡 Always eager to collaborate on innovative projects!
@@ -92,13 +89,6 @@
   
 </div>
 
----
-
-## 📊 GitHub Stats
-
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=17297781karthik&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&rank_icon=github" alt="Karthik's GitHub stats" width="48%" />
-    
 ---
 
 <div align="center">
